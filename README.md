@@ -39,4 +39,5 @@ This project analyses operational inefficiencies within NorthStar Logistics usin
 - Indexing improves SQL and MongoDB query performance
 
 ## Author
-Student Name
+Lahiru Pathirana
+ID - 34152595 
